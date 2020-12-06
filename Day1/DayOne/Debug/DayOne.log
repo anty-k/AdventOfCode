@@ -1,0 +1,8 @@
+﻿  DayOne.cpp
+c:\users\quentin\documents\c\advent calendar\dayone\dayone\dayone.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\quentin\documents\c\advent calendar\dayone\dayone\dayone.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\quentin\documents\c\advent calendar\dayone\dayone\dayone.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\quentin\documents\c\advent calendar\dayone\dayone\dayone.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\quentin\documents\c\advent calendar\dayone\dayone\dayone.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\quentin\documents\c\advent calendar\dayone\dayone\dayone.cpp(89): warning C4018: '>': signed/unsigned mismatch
+  DayOne.vcxproj -> C:\Users\Quentin\Documents\C\Advent Calendar\DayOne\Debug\DayOne.exe

@@ -1,0 +1,6 @@
+﻿  Day4.cpp
+c:\users\quentin\documents\c\advent of code\day4\day4\day4.cpp(188): warning C4018: '<': signed/unsigned mismatch
+c:\users\quentin\documents\c\advent of code\day4\day4\day4.cpp(190): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\quentin\documents\c\advent of code\day4\day4\day4.cpp(192): warning C4715: 'Passport::HairColorIsValid': not all control paths return a value
+c:\users\quentin\documents\c\advent of code\day4\day4\day4.cpp(224): warning C4715: 'Passport::PassportIDIsValid': not all control paths return a value
+  Day4.vcxproj -> C:\Users\Quentin\Documents\C\Advent of Code\Day4\Debug\Day4.exe

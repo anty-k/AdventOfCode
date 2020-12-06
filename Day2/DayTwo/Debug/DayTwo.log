@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  DayTwo.cpp
+c:\users\quentin\documents\c\advent of code\day2\daytwo\daytwo.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\quentin\documents\c\advent of code\day2\daytwo\daytwo.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  DayTwo.vcxproj -> C:\Users\Quentin\Documents\C\Advent of Code\Day2\Debug\DayTwo.exe
