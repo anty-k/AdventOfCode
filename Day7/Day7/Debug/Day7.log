@@ -1,5 +1,0 @@
-﻿  Day7.cpp
-c:\users\quentin\documents\c\advent of code\day7\day7\day7.cpp(68): warning C4018: '<': signed/unsigned mismatch
-c:\users\quentin\documents\c\advent of code\day7\day7\day7.cpp(101): warning C4018: '<': signed/unsigned mismatch
-c:\users\quentin\documents\c\advent of code\day7\day7\day7.cpp(160): warning C4018: '<': signed/unsigned mismatch
-  Day7.vcxproj -> C:\Users\Quentin\Documents\C\Advent of Code\Day7\Debug\Day7.exe
