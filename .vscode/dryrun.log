@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/anty-k/code/Advent of Code'
+make: Leaving directory '/home/anty-k/code/Advent of Code'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

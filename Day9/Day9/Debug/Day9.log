@@ -1,8 +1,0 @@
-﻿  Day9.cpp
-c:\users\quentin\documents\c\advent of code\day9\day9\day9.cpp(18): warning C4018: '<': signed/unsigned mismatch
-c:\users\quentin\documents\c\advent of code\day9\day9\day9.cpp(31): warning C4018: '<': signed/unsigned mismatch
-c:\users\quentin\documents\c\advent of code\day9\day9\day9.cpp(35): warning C4018: '<': signed/unsigned mismatch
-c:\users\quentin\documents\c\advent of code\day9\day9\day9.cpp(48): warning C4018: '<': signed/unsigned mismatch
-c:\users\quentin\documents\c\advent of code\day9\day9\day9.cpp(53): warning C4018: '<': signed/unsigned mismatch
-c:\users\quentin\documents\c\advent of code\day9\day9\day9.cpp(65): warning C4018: '<': signed/unsigned mismatch
-  Day9.vcxproj -> C:\Users\Quentin\Documents\C\Advent of Code\Day9\Debug\Day9.exe

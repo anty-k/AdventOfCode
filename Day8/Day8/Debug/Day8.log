@@ -1,7 +1,0 @@
-﻿  Day8.cpp
-c:\users\quentin\documents\c\advent of code\day8\day8\day8.cpp(31): warning C4018: '<': signed/unsigned mismatch
-c:\users\quentin\documents\c\advent of code\day8\day8\day8.cpp(107): warning C4018: '<': signed/unsigned mismatch
-c:\users\quentin\documents\c\advent of code\day8\day8\day8.cpp(114): warning C4018: '<': signed/unsigned mismatch
-c:\users\quentin\documents\c\advent of code\day8\day8\day8.cpp(133): warning C4018: '>=': signed/unsigned mismatch
-c:\users\quentin\documents\c\advent of code\day8\day8\day8.cpp(145): warning C4018: '>=': signed/unsigned mismatch
-  Day8.vcxproj -> C:\Users\Quentin\Documents\C\Advent of Code\Day8\Debug\Day8.exe
