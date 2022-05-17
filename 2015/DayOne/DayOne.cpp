@@ -13,11 +13,9 @@ void takeStairs(char instruction, int &stair)
 	if (instruction == '(')
 	{
 		stair++;
+		return;
 	}
-	else if (instruction == ')')
-	{
-		stair--;
-	}
+	stair--;
 }
 
 int main()
